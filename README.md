@@ -1,7 +1,9 @@
 # Bài tập lớn cơ sở dữ liệu
 * Thông tin cơ sở dữ liệu.
+  - R-E diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20R-E).
+  - E-R diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20E-R.drawio).
 * Truy vấn dữ liệu:
-  - 10 câu lệnh truy vấn.
+  - 10 câu lệnh truy vấn [[query.sql]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Query/query.sql).
   - Tối ưu thời gian truy vấn.
     - Index.
     - Partition.
