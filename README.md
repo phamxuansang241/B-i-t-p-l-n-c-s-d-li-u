@@ -1,5 +1,5 @@
 # Bài tập lớn cơ sở dữ liệu
-*[[Database]](https://github.com/phamxuansang241/Database-Assigment/tree/main/Database).
+* File cơ sở dữ liệu [[Database]](https://github.com/phamxuansang241/Database-Assigment/tree/main/Database).
 * Thông tin cơ sở dữ liệu.
   - R-E diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20R-E).
   - E-R diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20E-R.drawio).
