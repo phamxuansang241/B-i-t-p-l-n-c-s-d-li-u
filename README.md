@@ -1,5 +1,13 @@
-# Bài tập lớn cơ sở dữ liệu
-* File cơ sở dữ liệu [[Database]](https://github.com/phamxuansang241/Database-Assigment/tree/main/Database).
+# Bài tập lớn cơ sở dữ liệu nhóm 4.
+* Chủ đề: Education.
+* Các thành viên nhóm:
+  - Nông Thị Thủy - 20195926
+  - Phạm Xuân Sang - 20195991
+  - Nguyễn Hải Yến - 20195944
+  - Lê Minh Đức - 20195857
+  - Huỳnh Văn Thuần - 20195924
+* Slide thuyết trình [[Link]](https://github.com/phamxuansang241/Database-Assigment/tree/main/Slide).
+* File sql DDL và DML cơ sở dữ liệu [[Database]](https://github.com/phamxuansang241/Database-Assigment/tree/main/Database).
 * Thông tin cơ sở dữ liệu.
   - R-E diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20R-E).
   - E-R diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20E-R.drawio).
