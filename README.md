@@ -27,4 +27,4 @@
     - Cập nhật điểm học phần chi tiết cho một sinh viên [[Trans_5.sql]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Transaction/Trans_5.sql).
     - Đăng ký học phần chi tiết cho một sinh viên [[Trans_4.sql]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Transaction/Trans_4.sql).
   - Copy database y hệt cấu trúc.
-    - Stored procedure để copy database [[Copy_Database.sql]](Copy_Database.sql).
+    - Stored procedure để copy database [[Copy_Database.sql]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Copy%20Database/Copy_Database.sql).
