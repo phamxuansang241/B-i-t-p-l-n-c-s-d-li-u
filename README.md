@@ -11,6 +11,7 @@
 * Thông tin cơ sở dữ liệu.
   - R-E diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20R-E).
   - E-R diagram [[Image]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Diagram%20E-R.drawio).
+  - Các thông tin cơ bản [[Text]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Database/Table_CSDL.txt).
 * Truy vấn dữ liệu:
   - 10 câu lệnh truy vấn [[query.sql]](https://github.com/phamxuansang241/Database-Assigment/blob/main/Query/query.sql).
   - Tối ưu thời gian truy vấn.
