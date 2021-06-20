@@ -1,0 +1,68 @@
+NỘI DUNG CÁC BẢNG
+Bảng 1: Department
+-Nội dung: Khoa/Viện đào tạo
+-Khóa chính: depl_name
+-Số hàng: 20
+-Data: 16.0KB
+
+Bảng 2: Instructor
+-Nội dung:  Thông tin Giảng viên
+-Khóa chính: Ins_ID
+-Số hàng: 199141
+-Data: 10.5MB
+
+Bảng 3: Student
+-Nội dung: Thông tin Sinh viên
+-Khóa chính: Stu_ID
+-Số hàng: 1199738
+-Data: 61.1MB
+
+Bảng 4: Takes
+-Nội dung: Học tập
+-Khóa chính: Ta_ID
+-Số hàng: 2993381
+-Data: 165.9MB
+
+Bảng 5: Teaches
+-Nội dung: Giảng dạy
+-Khóa chính: Te_ID
+-Số hàng: 498928
+-Data: 25.6MB
+
+Bảng 6: Section
+-Nội dung: Các học phần Đào tạo
+-Khóa chính: Sec_ID
+-Số hàng: 316957
+-Data: 18.5MB
+
+Bảng 7: Classroom
+-Nội dung: Phòng học
+-Khóa chính: room_number
+-Số hàng: 12000
+-Data: 1.5MB
+
+Bảng 8: Time_slot
+-Nội dung: Thời gian học tập
+-Khóa chính: Time_slot_ID
+-Số hàng: 20
+-Data: 16.0KB
+
+Bảng 9: Course
+-Nội dung: Các khóa học
+-Khóa chính: course_ID
+-Số hàng: 200
+-Data: 16.0KB
+
+Bảng 10: Prereq
+-Nội dung: Điều kiện tiên quyết
+-Khóa chính: pre_ID
+-Số hàng: 100
+-Data: 16KB
+
+Bảng 11: Advisor
+-Nội dung: Hướng dẫn
+-Khóa ngoại: Ins_ID & Stu_ID
+-Số hàng: 232742
+-Data: 25.5MB
+
+
